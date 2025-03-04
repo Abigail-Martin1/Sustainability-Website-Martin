@@ -123,4 +123,5 @@ main aside h2 {
 #content-wrapper main {
     order: 2;
     flex: 3;
+    width: 3px;
   }
